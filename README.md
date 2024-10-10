@@ -1,1 +1,1 @@
-# wlamart_globaltech
+# walmart_globaltech
